@@ -1,5 +1,6 @@
 # implementation of card game - Memory
-# if images don't load, uncomment line 74
+# http://www.codeskulptor.org/#user39_aVJwYUuTKK_2.py
+# if images don't load, uncomment line 75
 
 import simplegui
 import random
